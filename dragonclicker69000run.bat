@@ -1,0 +1,1 @@
+java -jar dragonclicker69000.jar
